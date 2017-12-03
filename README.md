@@ -25,3 +25,15 @@ You can load `digikam.shortcuts` in digiKam under Settings -> configure shortcut
 | Open/close right panels, Library and Develop modules, top to bottom | `Ctrl + 0 - 9`  | n/a  | n/a  |
 | Open/close right panels, Slideshow, Print, and Web modules, top to bottom  | `Ctrl + 1 - 7`  | n/a  | n/a  |
 
+## Keys for navigating modules
+| Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default
+|---|---|---|---|---|
+| Show/hide side panels  | `tab`                      | n/a          | n/a  |
+|Go to Library module    |  `Ctrl + Alt + 1`          | Albums       | `Ctrl + Alt + 1`         |
+|Go to Develop module    | `Ctrl + Alt + 2`           | Image Editor | `Ctrl + Alt + 2`         |
+|Go to Slideshow module  | `Ctrl + Alt + 3`           | Slideshow    | `Ctrl + Alt + 3`         |
+|Go to Print module      | `Ctrl + Alt + 4`           | Print Creator| `Ctrl + Alt + 4`         | `Ctrl + P` |
+|Go to Web module        | `Ctrl + Alt + 5`           | n/a          | n/a                      | n/a        |
+|Go back              | `Ctrl + Alt + Left Arrow`  | Back         | `Ctrl + Alt + Left Arrow`| `Alt + Left` |
+|Go forward              | `Ctrl + Alt + Right Arrow` | Forward      | `Ctrl + Alt + Right Arrow`|`Alt + Right` |
+|Go back to previous module |  `Ctrl + Alt + Up Arrow`| n/a         | n/a | n/a |
