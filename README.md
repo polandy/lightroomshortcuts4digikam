@@ -6,7 +6,7 @@ You can load `digikam.shortcuts` in digiKam under Settings -> configure shortcut
 ## Keys for working with panels
 | Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default |
 |---|---|---|---|---|
-| Show/hide side panels  | `tab`            | n/a                        | n/a  |
+| Show/hide side panels  | `tab`            | n/a                        | n/a  | n/a
 |        n/a             | n/a              | Next Right Sidebar Tab     | `Ctrl + PgDn`  | `Meta + Ctrl + PgDn` |
 |        n/a             | n/a              | Previous Right Sidebar Tab | `Ctrl + PgUp`  | `Meta + Ctrl + PgUp` |
 |        n/a             | n/a              | Next Left Sidebar Tab      | `Ctrl + Shift + PgDn`  |  `Meta + Ctrl + Home` |
@@ -27,12 +27,29 @@ You can load `digikam.shortcuts` in digiKam under Settings -> configure shortcut
 ## Keys for navigating modules
 | Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default
 |---|---|---|---|---|
-| Show/hide side panels  | `tab`                      | n/a          | n/a  |
-|Go to Library module    |  `Ctrl + Alt + 1`          | Albums       | `Ctrl + Alt + 1`         |
-|Go to Develop module    | `Ctrl + Alt + 2`           | Image Editor | `Ctrl + Alt + 2`         |
-|Go to Slideshow module  | `Ctrl + Alt + 3`           | Slideshow    | `Ctrl + Alt + 3`         |
+| Show/hide side panels  | `tab`                      | n/a          | n/a  |  n/a |
+|Go to Library module    |  `Ctrl + Alt + 1`          | Albums       | `Ctrl + Alt + 1`         |  n/a |
+|Go to Develop module    | `Ctrl + Alt + 2`           | Image Editor | `Ctrl + Alt + 2`         |  n/a |
+|Go to Slideshow module  | `Ctrl + Alt + 3`           | Slideshow    | `Ctrl + Alt + 3`         |  n/a |
 |Go to Print module      | `Ctrl + Alt + 4`           | Print Creator| `Ctrl + Alt + 4`         | `Ctrl + P` |
 |Go to Web module        | `Ctrl + Alt + 5`           | n/a          | n/a                      | n/a        |
-|Go back              | `Ctrl + Alt + Left Arrow`  | Back         | `Ctrl + Alt + Left Arrow`| `Alt + Left` |
+|Go back                 | `Ctrl + Alt + Left Arrow`  | Back         | `Ctrl + Alt + Left Arrow`| `Alt + Left` |
 |Go forward              | `Ctrl + Alt + Right Arrow` | Forward      | `Ctrl + Alt + Right Arrow`|`Alt + Right` |
-|Go back to previous module |  `Ctrl + Alt + Up Arrow`| n/a         | n/a | n/a |
+|Go back to previous module |  `Ctrl + Alt + Up Arrow`| n/a          | n/a                      | n/a |
+
+
+## Keys for changing views and screen modes
+| Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default
+|---|---|---|---|---|
+|Enter Library Loupe view   |  `E` | Preview    | `E` | `F3` |
+|Enter Library Grid view    |  `G` | Thumbnails | `G` | n/a  |
+|Enter Library Compare view |  `C` | Lighttable | `C` | `L`  |
+|Enter Library Survey view  |  `N` | n/a        |  n/a| n/a  |
+|Open selected photo in the Develop module| `D` | Image Editor | `D` |  n/a |
+Cycle forward / backward through Lights Out modes | `L` / `Shift + L` | n/a | n/a | n/a
+Toggle Lights Dim mode | `Ctrl + Shift + L` | n/a | n/a | n/a |
+Cycle screen modes     | `F`       | n/a | n/a | n/a |
+Switch between Normal and full-screen, hide panels | `Ctrl + Shift + F` | Full Screen Mode | `F` | `Ctrl + Shift + F` |
+Go to Normal screen mode   | `Ctrl + Alt + F`  | n/a | n/a | n/a |
+Cycle info overlay | `I`  |   n/a | n/a | n/a |
+Show/hide info overlay | `Ctrl + I` | n/a | n/a | n/a |
