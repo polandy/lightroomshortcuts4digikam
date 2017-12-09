@@ -53,3 +53,31 @@ Switch between Normal and full-screen, hide panels | `Ctrl + Shift + F` | Full S
 Go to Normal screen mode   | `Ctrl + Alt + F`  | n/a | n/a | n/a |
 Cycle info overlay | `I`  |   n/a | n/a | n/a |
 Show/hide info overlay | `Ctrl + I` | n/a | n/a | n/a |
+
+## Keys for managing photos and catalogs
+| Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default
+|---|---|---|---|---|
+| Import photos from disk | `Ctrl + Shift + I` | Add Images  | `Ctrl + Shift + I` | `Ctrl + Alt + I` |
+| Import photos from disk | `Ctrl + Shift + I` | Add Folders  | n/a | ~~`Ctrl + Shift + I`~~ (overriden by "Add Images") |
+| Open catalog            | `Ctrl + O`          | n/a | n/a | n/a |
+| Open Preferences        | `Ctrl + U`   | `Configure Digikam` | `Ctrl + U` | n/a | 
+| Open Catalog Settings   | `Ctrl + Alt + , (comma)`  | n/a | n/a | n/a | 
+| Create new subfolder (segmented tethered capture) | `Ctrl + Shift + T`  | n/a | n/a | n/a | 
+| Hide/show tether capture bar | `Ctrl + T`            | n/a | n/a | n/a | 
+| Create a new folder in the Library module | `Ctrl + Shift + N` | New | `Ctrl + Shift + N` | `Ctrl + N`
+| Create virtual copy (Library and Develop module only) | `Ctrl +  ‘ (apostrophe)`  | n/a | n/a | n/a | 
+| Show in Explorer/Finder (Library and Develop module only) | `Ctrl + R` | Open in File manager | `Ctrl + R` | n/a |
+| Go to next/previous photo in the Filmstrip | `Right Arrow`/`Left Arrow` | Next Image | | `Right Arrow`/`Left Arrow` \| `Space`/`Shift + Space`
+| Select multiple folders or collections (in Library, Slideshow, Print, and Web modules) | `Shift-click` or `Ctrl-click` | n/a | n/a | n/a | 
+| Rename photo (in Library module) | `F2` | Rename | | `F2` |
+| Delete selected photo(s) | `Backspace` or `Delete` | Delete | | `Shift + Delete` |
+| Remove selected photo(s) from catalog | `Alt` + `Backspace`  | n/a | n/a | n/a | 
+| Delete selected photo(s) and move to Recycling Bin (Windows) or Trash (Mac OS) | `Ctrl + Alt + Shift + Backspace` | Move to Trash without confirmation | `Ctrl + Alt + Shift + Backspace` | n/a
+| Delete rejected photo(s) | `Ctrl + Backspace`  | n/a | n/a | n/a | 
+| Edit in Photoshop | `Ctrl + E`  | n/a | n/a | n/a | 
+| Open in other editor | `Ctrl + Alt + E`  | n/a | n/a | n/a | 
+| Export selected photo(s) | `Ctrl + Shift + E` | Export to remote storage | `Ctrl + Shift + E` | `Ctrl + Shift + K` |
+| Export with previous settings | `Ctrl + Alt + Shift + E`  | n/a | n/a | n/a | 
+| Open plug-in manager | `Ctrl + Alt + Shift + , (comma)` | n/a | n/a | n/a | 
+| Print selected photo | `Ctrl + P` | Print Manager | `Ctrl + P` | `Ctrl + Shift + P`
+| Open Page Setup dialog box | `Ctrl + Shift + P` | See @Print Manager | n/a | n/a | 
