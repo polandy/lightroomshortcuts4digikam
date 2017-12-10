@@ -81,3 +81,43 @@ Show/hide info overlay | `Ctrl + I` | n/a | n/a | n/a |
 | Open plug-in manager | `Ctrl + Alt + Shift + , (comma)` | n/a | n/a | n/a | 
 | Print selected photo | `Ctrl + P` | Print Manager | `Ctrl + P` | `Ctrl + Shift + P`
 | Open Page Setup dialog box | `Ctrl + Shift + P` | See @Print Manager | n/a | n/a | 
+
+## Keys for comparing photos in the Library module
+| Lightroom  Action      | Lightoom Shortcut| Digikam Action             | Digikam Shortcut  | Default
+|---|---|---|---|---|
+Switch to Loupe view                             | `E or Enter`             | Preview                 | `E` | `F3` |
+Switch to Grid view                              | `G or Esc  `             | Thumbnails              | `G` or `Esc` or `E` | ? |
+Switch to Compare view                           | `C`                      | Light Table             | `C` | `L` |
+Switch to Survey view                            | `N`                      | n/a                     | n/a | n/a |
+Switch from Grid to Loupe view                   | `Spacebar or E`          | Preview                 | `E` | `F3` |
+Swap select and candidate photos in Compare view | `Down Arrow`             | n/a                     | n/a | n/a |
+Make next photos select and candidate in Compare view | `Up Arrow`          | n/a                     | n/a | n/a |
+Toggle Zoom view                                 | `Z`                      | Preview                 | `E` | `F3` |
+Zoom in / zoom out in Loupe view                 | `Ctrl + = / Ctrl + -` | Zoom in / Zoom out in Preview view | `+` / `-` | `Ctrl++ + + / Ctrl+- + -` |
+Scroll up/down zoomed photo in Loupe view (also works in Develop and Web modules) | `Page Up / Page Down on full-size keyboard`| n/a | n/a | n/a|
+Go to beginning/end of Grid view                 | `Home / End`              | Go to the beginning/end of the Thumnbnails view | n/a| `Home / End` |
+Play impromptu slide show                        | `Ctrl + Enter`            | Slideshow (All)         | n/a (mapping not possible) | `F9` |
+n/a                                              | n/a                       | Slideshow (Selection)   | n/a (mapping not possible) | `Alt + F9` |
+n/a                                              | n/a                       | Slideshow (With all subalbums) | n/a (mapping not possible) | `Shift + F9` |
+Rotate photo right (clockwise)                   | `Ctrl + .`                | ~~Rotated right~~ n/a   | n/a (mapping not possible) | n/a |
+Rotate photo left (counterclockwise)             | `Ctrl + ,`                | ~~Rotated left~~ n/a    | n/a | n/a |
+Scroll up/down Grid thumbnails                   | `Page Up / Page Down on full-size keyboard`| Scroll up/down Grid thumbnails | n/a | `Page Up / Page Down on full-size keyboard` |
+Toggle cell extras                               | `Ctrl + Shift + H`        | n/a                    | n/a | n/a |
+Show/hide badges                                 | `Ctrl + Alt + Shift + H`  | n/a                    | n/a | n/a |
+Cycle Grid views                                 | `J`                       | n/a                    | n/a | n/a |
+Open Library view options                        | `Ctrl + J`                | n/a                    | n/a | n/a |
+Select multiple discrete photos                  | `Ctrl-click`              | Select multiple photos | n/a | `Ctrl-click` |
+Select multiple contiguous photos                | `Shift-click`             | Select multiple contiguous photos | n/a | `Select multiple contiguous photos` |
+Select all photos                                | `Ctrl + A`                | Select all photos| n/a | `Ctrl + A` |
+Deselect all photos                              | `Ctrl + D`                | Select None            | `Ctrl + D` | `Ctrl + Shift + A` |
+Select only active photo                         | `Ctrl + Shift + D`        | n/a                    | n/a | n/a |
+Deselect active photo                            | `/`                       | n/a                    | n/a | n/a |
+Add previous/next photo to selection             | `Shift + Left/Right Arrow`| Add previous/next photo to selection | n/a | `Add previous/next photo to selection` |
+Select flagged photos                            | `Ctrl + Alt + A`          | n/a                    | n/a | n/a |
+Deselect unflagged photos                        | `Ctrl + Alt + Shift + D`  | n/a                    | n/a | n/a |
+Group into stack                                 | `Ctrl + G`                | ~~Group Images~~ Group selected here | n/a (mapping not possible) | n/a|
+Unstack                                          | `Ctrl + Shift + G`        | Ungroup selected | n/a (mapping not possible) | n/a |
+Toggle stack                                     | `S`                       | Show grouped Images | n/a (mapping not possible) | n/a |
+Move to top of stack                             | `Shift + S`               | n/a                    | n/a | n/a |
+Move up in stack                                 | `Shift + [`               | n/a                    | n/a | n/a |
+Move down in stack                               | `Shift + ]`               | n/a                    | n/a | n/a |
