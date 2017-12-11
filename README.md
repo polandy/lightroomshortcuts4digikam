@@ -127,20 +127,20 @@ Move down in stack                               | `Shift + ]`               | n
 |---|---|---|---|---|
 | Set star rating	    | `1` - `5` | Assign Rating 1-5 | `1` - `5` | `Ctrl + 1` - `Ctrl + 5` |
 | Set star rating and go to next photo | `Shift + 1 - 5` | n/a | n/a | n/a |
-| Remove star rating | `0` | Assign Rating 0 | `0` | `Ctrl + 0` |
+| Remove star rating    | `0` | Assign Rating 0 | `0` | `Ctrl + 0` |
 | Remove star rating and go to next photo | `Shift + 0` | n/a | n/a | n/a |
 | Increase/decrease rating by one star | `]` / `[`      | n/a | n/a | n/a |
-| Assign a red label                   | `6` | Assign Color Label Red | `6` | ~~`Ctrl + Alt + 1`~~ Overriden by "Albums"   |
+| Assign a red label    | `6` | Assign Color Label Red | `6` | ~~`Ctrl + Alt + 1`~~ Overriden by "Albums"   |
 | Assign a yellow label | `7` | Assign Color Label Yellow | `7` | ~~`Ctrl + Alt + 3`~~ Overriden by "Slideshow" |
 | Assign a green label  | `8` | Assign Color Label Green  | `8` | ~~`Ctrl + Alt + 4`~~ Overriden by "Go to Print Module" |
 | Assign a blue label   | `9` | Assign Color Label Blue   | `9` | ~~`Ctrl + Alt + 5`~~ Removed|
 | n/a                   | n/a | Assign Color Label None   | n/a | `Ctrl + Alt + 0`|
-| Assign a color label and go to next photo | `Shift + 6 - 9 | n/a | n/a | n/a |
-| Flag photo as a pick | `P` | Assign Pick Label "Accepted" | `P` | `Alt + 3` |
+| Assign a color label and go to next photo | `Shift + 6 - 9` | n/a | n/a | n/a |
+| Flag photo as a pick  | `P` | Assign Pick Label "Accepted" | `P` | `Alt + 3` |
 | Flag photo as a pick and go to next photo | `Shift + P` | n/a | n/a | n/a |
-| Flag photo as a reject | `X` | Assign Pick Label "Rejected" | `X` | `Alt + 1` |
+| Flag photo as a reject| `X` | Assign Pick Label "Rejected" | `X` | `Alt + 1` |
 | Flag photo as a reject and go to next photo | `Shift + X` | n/a | n/a | n/a |
-| Unflag photo | `U` | Assign Pick Label "None" | `U` | `Alt + 0` |
+| Unflag photo          | `U` | Assign Pick Label "None" | `U` | `Alt + 0` |
 | Unflag photo and go to next photo | `Shift + U` | n/a | n/a | n/a |
 | Increase/decrease flag status | `Ctrl + Up Arrow` / `Ctrl + Down Arrow` | n/a | n/a | n/a |
 | Cycle flag settings | `‘` (back quote) | n/a | n/a | n/a |
